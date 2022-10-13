@@ -5,7 +5,7 @@ from typing import Union
 import ffmpeg
 import numpy as np
 import torch
-import torch.nn.functional as F
+import torch.nn as F
 
 from .utils import exact_div
 
