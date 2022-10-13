@@ -1,5 +1,5 @@
 numpy
-torch
+torch-directml
 tqdm
 more-itertools
 transformers>=4.19.0
